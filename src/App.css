@@ -21,7 +21,7 @@ body {
     --color-white: #fff;
     --color-light-white: #eee;
 
-    --color-tomato: #d40640;
+    --color-tomato: #000000;
     --color-purple-transparent: rgba(88, 24, 69, .9);
     --color-pink-transparent: rgba(216, 14, 91, .9);
 
@@ -40,7 +40,7 @@ body {
   width: 100%;
   background-size: cover;
   display: flex;
-  background-color: rgb(106, 79, 156);
+  background-color: rgb(68, 160, 160);
   justify-content: center;
   align-items: center;
 }
@@ -63,7 +63,7 @@ body {
 
 .computation-screen {
   height: 6vh;
-  font-size: 2.5rem;
+  font-size: 3.5rem;
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
